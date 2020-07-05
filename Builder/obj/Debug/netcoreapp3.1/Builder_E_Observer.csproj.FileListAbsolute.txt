@@ -1,0 +1,13 @@
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.exe
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.deps.json
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.runtimeconfig.json
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.runtimeconfig.dev.json
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.dll
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder_E_Observer.pdb
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.csprojAssemblyReference.cache
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.AssemblyInfoInputs.cache
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.AssemblyInfo.cs
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.csproj.CoreCompileInputs.cache
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.dll
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.pdb
+C:\Users\alene\source\repos\CursoDesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder_E_Observer.genruntimeconfig.cache

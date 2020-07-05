@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "State/1.0.0": {
+        "dependencies": {
+          "ReSharper.Annotations": "7.1.3.130415"
+        },
+        "runtime": {
+          "State.dll": {}
+        }
+      },
+      "ReSharper.Annotations/7.1.3.130415": {
+        "runtime": {
+          "lib/net/JetBrains.Annotations.dll": {
+            "assemblyVersion": "7.1.3000.2254",
+            "fileVersion": "7.1.3000.2254"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "State/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReSharper.Annotations/7.1.3.130415": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3if1zsegg5Do6iK9fpkkCn40iHwZl8ndjsgvTpMFfzmQ+zmzrXRRSITlYtT9zrlvW9mvj3IRmPFtKxn3CJDcWA==",
+      "path": "resharper.annotations/7.1.3.130415",
+      "hashPath": "resharper.annotations.7.1.3.130415.nupkg.sha512"
+    }
+  }
+}

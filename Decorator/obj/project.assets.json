@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ReSharper.Annotations/7.1.3.130415": {
+        "type": "package",
+        "compile": {
+          "lib/net/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/net/JetBrains.Annotations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReSharper.Annotations/7.1.3.130415": {
+      "sha512": "3if1zsegg5Do6iK9fpkkCn40iHwZl8ndjsgvTpMFfzmQ+zmzrXRRSITlYtT9zrlvW9mvj3IRmPFtKxn3CJDcWA==",
+      "type": "package",
+      "path": "resharper.annotations/7.1.3.130415",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/JetBrains.Annotations.dll",
+        "lib/net/JetBrains.Annotations.xml",
+        "resharper.annotations.7.1.3.130415.nupkg.sha512",
+        "resharper.annotations.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ReSharper.Annotations >= 7.1.3.130415"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alene\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alene\\source\\repos\\CursoDesignPatterns\\Decorator\\Decorator.csproj",
+      "projectName": "Decorator",
+      "projectPath": "C:\\Users\\alene\\source\\repos\\CursoDesignPatterns\\Decorator\\Decorator.csproj",
+      "packagesPath": "C:\\Users\\alene\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alene\\source\\repos\\CursoDesignPatterns\\Decorator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alene\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ReSharper.Annotations": {
+            "target": "Package",
+            "version": "[7.1.3.130415, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'ReSharper.Annotations 7.1.3.130415' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "ReSharper.Annotations",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
